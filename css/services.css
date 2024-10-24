@@ -1,0 +1,41 @@
+h1#headind1{
+    text-align: center;
+    color: red;
+}
+#paragraph1{
+    font-family: Arial;
+}
+.one{
+    font-weight: bolder;
+    font-style: italic;
+}
+#mydivision{
+    background: blue;
+    margin: 50px;
+    padding: 30px;
+    color: red;
+    font-weight: bolder;
+}
+#main{
+    display: flex;
+}
+#advertisement{
+    background-color: red;
+    box-shadow: 12px 6px 4px 8px yellow;
+
+}
+#payment{
+    background-color: blue;
+    margin-left: 40px;
+    box-shadow: 12px 6px 4px 8px yellow;
+
+}
+#list{
+    background-color: green;
+    margin-left: 40px;
+    box-shadow: 12px 6px 4px 8px yellow;
+
+}
+#advertisement:hover,#payment:hover,#list:hover{
+    background-color: gray;
+}
